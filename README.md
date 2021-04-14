@@ -11,7 +11,7 @@
     C:\ProgramData\Sprut Technology\SprutCAM\Version 14\Machines\Schemas\Robots
 Так же можно указывать свои директории, тогда их в конфигураторе на плюсик надо добавить.
 
-## Где скачать эти злоебучие xml-описания роботов.
+## Где скачать xml-описания роботов.
     Общая директория https://storage.sprutcam.com/robots/
     1. Для Kuka: https://storage.sprutcam.com/robots/Kuka/
     2. Для Fanuc: https://storage.sprutcam.com/robots/Fanuc/
@@ -26,7 +26,8 @@
     <ToolBlockSelector>
 		<ActiveNode DefaultValue="ToolBlock"/>
 		<ToolBlock>
-			<ImageFile DefaultValue="Images\Spindle_M.osd"/>
+			<!-- <ImageFile DefaultValue="Images\Spindle_M.osd"/> -->
+			<ImageFile DefaultValue="Images\test.osd"/>
 		</ToolBlock>
 	</ToolBlockSelector>
     ...
