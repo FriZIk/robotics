@@ -6,6 +6,8 @@ https://grabcad.com/library/xbox-one-kinect-sensor-wall-fixing-clamp-1/details?f
 https://grabcad.com/library/hc-sr04-capteur-obstacle-1/details?folder_id=10872439
 https://grabcad.com/library/power-strip-x5-1
 https://grabcad.com/library/18650-cell-2
+https://grabcad.com/library/nvidia-jetson-tx1-1
+https://dev.intelrealsense.com/docs/cad-files
 
 Ссылки 
 https://www.dfrobot.com/product-386.html - Rover 5
